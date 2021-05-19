@@ -1,0 +1,50 @@
+.fourHouses {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+.counter {
+    text-align: right;
+}
+
+.gryffindorImage {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.hufflepuffImage {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.ravenclawImage {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.slytherinImage {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.muggleImage {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
